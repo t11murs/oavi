@@ -75,11 +75,11 @@
 
 | Исходное изображение | Полутоновое изображение |
 | --- | --- |
-| ![manuscript_01_source](./results/manuscript_01/00_source.png) | ![manuscript_01_gray](./results/manuscript_01/01_grayscale_preview.png) |
+| ![manuscript_01_source](./lab2_results/manuscript_01/00_source.png) | ![manuscript_01_gray](./lab2_results/manuscript_01/01_grayscale_preview.png) |
 
 | Бинаризация Брэдли и Рота, окно `15 × 15` | Сводная панель |
 | --- | --- |
-| ![manuscript_01_bin](./results/manuscript_01/02_bradley_roth_w15.png) | ![manuscript_01_panel](./results/manuscript_01/03_panel.png) |
+| ![manuscript_01_bin](./lab2_results/manuscript_01/02_bradley_roth_w15.png) | ![manuscript_01_panel](./lab2_results/manuscript_01/03_panel.png) |
 
 Наблюдение: на первой рукописи исходное изображение имеет слабый контраст, пятна и выраженную неравномерность фона. После перевода в полутон текст становится заметнее, а адаптивная бинаризация позволяет частично выделить строки и контуры надписей. При этом на фоне сохраняются шумы и границы листа, что ожидаемо для такого сложного исходника.
 
@@ -87,11 +87,11 @@
 
 | Исходное изображение | Полутоновое изображение |
 | --- | --- |
-| ![manuscript_02_source](./results/manuscript_02/00_source.png) | ![manuscript_02_gray](./results/manuscript_02/01_grayscale_preview.png) |
+| ![manuscript_02_source](./lab2_results/manuscript_02/00_source.png) | ![manuscript_02_gray](./lab2_results/manuscript_02/01_grayscale_preview.png) |
 
 | Бинаризация Брэдли и Рота, окно `15 × 15` | Сводная панель |
 | --- | --- |
-| ![manuscript_02_bin](./results/manuscript_02/02_bradley_roth_w15.png) | ![manuscript_02_panel](./results/manuscript_02/03_panel.png) |
+| ![manuscript_02_bin](./lab2_results/manuscript_02/02_bradley_roth_w15.png) | ![manuscript_02_panel](./lab2_results/manuscript_02/03_panel.png) |
 
 Наблюдение: на второй странице текст изначально контрастнее и крупнее, поэтому результат бинаризации получается лучше. Метод Брэдли и Рота уверенно выделяет основные символы и строки текста, хотя на краях листа и в зонах повреждений бумаги остаются посторонние артефакты.
 

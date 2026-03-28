@@ -49,19 +49,19 @@
 
 | Исходное цветное | Полутоновое |
 | --- | --- |
-| <img src="results/manuscript_01/00_source.png" width="280"> | <img src="results/manuscript_01/01_grayscale_preview.png" width="280"> |
+| <img src="lab4_results/manuscript_01/00_source.png" width="280"> | <img src="lab4_results/manuscript_01/01_grayscale_preview.png" width="280"> |
 
 | Бинарный вход | После дилатации |
 | --- | --- |
-| <img src="results/manuscript_01/02_binary_input.png" width="280"> | <img src="results/manuscript_01/03_dilated.png" width="280"> |
+| <img src="lab4_results/manuscript_01/02_binary_input.png" width="280"> | <img src="lab4_results/manuscript_01/03_dilated.png" width="280"> |
 
 Итоговый черный контур:
 
-<img src="results/manuscript_01/04_contour_black.png" width="280">
+<img src="lab4_results/manuscript_01/04_contour_black.png" width="280">
 
 Сводная панель:
 
-<img src="results/manuscript_01/05_panel.png" width="1100">
+<img src="lab4_results/manuscript_01/05_panel.png" width="1100">
 
 На первой рукописи фон довольно светлый, но присутствуют пятна и слабые штрихи. После дилатации внешний контур получается непрерывным и хорошо подчеркивает границы надписей и загрязнений.
 
@@ -69,19 +69,19 @@
 
 | Исходное цветное | Полутоновое |
 | --- | --- |
-| <img src="results/manuscript_02/00_source.png" width="280"> | <img src="results/manuscript_02/01_grayscale_preview.png" width="280"> |
+| <img src="lab4_results/manuscript_02/00_source.png" width="280"> | <img src="lab4_results/manuscript_02/01_grayscale_preview.png" width="280"> |
 
 | Бинарный вход | После дилатации |
 | --- | --- |
-| <img src="results/manuscript_02/02_binary_input.png" width="280"> | <img src="results/manuscript_02/03_dilated.png" width="280"> |
+| <img src="lab4_results/manuscript_02/02_binary_input.png" width="280"> | <img src="lab4_results/manuscript_02/03_dilated.png" width="280"> |
 
 Итоговый черный контур:
 
-<img src="results/manuscript_02/04_contour_black.png" width="280">
+<img src="lab4_results/manuscript_02/04_contour_black.png" width="280">
 
 Сводная панель:
 
-<img src="results/manuscript_02/05_panel.png" width="1100">
+<img src="lab4_results/manuscript_02/05_panel.png" width="1100">
 
 На второй рукописи буквы крупнее и контрастнее, поэтому контур выделяется еще заметнее. Одновременно хорошо проявляются неровные края листа и крупные дефекты поверхности.
 

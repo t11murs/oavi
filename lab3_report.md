@@ -95,11 +95,11 @@
 
 | Исходное цветное | Бинарный вход из лабы 2 |
 | --- | --- |
-| <img src="results/manuscript_01/00_source.png" width="260"> | <img src="results/manuscript_01/01_binary_input.png" width="260"> |
+| <img src="lab3_results/manuscript_01/00_source.png" width="260"> | <img src="lab3_results/manuscript_01/01_binary_input.png" width="260"> |
 
 | После дилатации варианта `16` | `XOR`-разность |
 | --- | --- |
-| <img src="results/manuscript_01/02_variant16_dilation.png" width="260"> | <img src="results/manuscript_01/03_xor_difference.png" width="260"> |
+| <img src="lab3_results/manuscript_01/02_variant16_dilation.png" width="260"> | <img src="lab3_results/manuscript_01/03_xor_difference.png" width="260"> |
 
 На первом изображении текст и загрязнения были сравнительно тонкими и местами разорванными. После дилатации штрихи букв стали немного толще, а часть маленьких промежутков внутри темных областей сократилась. По `XOR` хорошо видно, что основная часть изменений возникает вдоль контуров букв и пятен.
 
@@ -107,11 +107,11 @@
 
 | Исходное цветное | Бинарный вход из лабы 2 |
 | --- | --- |
-| <img src="results/manuscript_02/00_source.png" width="260"> | <img src="results/manuscript_02/01_binary_input.png" width="260"> |
+| <img src="lab3_results/manuscript_02/00_source.png" width="260"> | <img src="lab3_results/manuscript_02/01_binary_input.png" width="260"> |
 
 | После дилатации варианта `16` | `XOR`-разность |
 | --- | --- |
-| <img src="results/manuscript_02/02_variant16_dilation.png" width="260"> | <img src="results/manuscript_02/03_xor_difference.png" width="260"> |
+| <img src="lab3_results/manuscript_02/02_variant16_dilation.png" width="260"> | <img src="lab3_results/manuscript_02/03_xor_difference.png" width="260"> |
 
 На втором изображении текст изначально более плотный и контрастный, поэтому эффект дилатации выражен сильнее. Символы становятся массивнее, а отдельные близко расположенные элементы текста частично сливаются. Разностное изображение показывает, что операция в основном расширяет уже существующие темные структуры, а не создает новые изолированные объекты.
 
