@@ -1,0 +1,3 @@
+﻿run;font_size;symbol_count;expected;predicted;errors;correct;accuracy_percent
+original;72;19;МЕНСЕНІЖАҚСЫКӨРЕМІН;МЕНСЕНІЖАҚСЫКӨРЕМІН;0;19;100.000000
+experiment;68;19;МЕНСЕНІЖАҚСЫКӨРЕМІН;МЕНСЕНІЖАҚСЫКӨРЕМІН;0;19;100.000000
